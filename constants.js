@@ -30,7 +30,7 @@ const prompts = [
 // Possible responses, in corresponding order
 
 const replies = [
-  ["Hello!", "Hi!", "Hey!", "Hi there!","Howdy"],
+  ["Hello - Welcome to GTE BOT!", "Hi - Welcome to GTE BOT!", "Hey - Welcome to GTE BOT!", "Hi there - Welcome to GTE BOT!","Howdy - Welcome to GTE BOT"],
   [
     "Fine... how are you?",
     "Pretty well, how are you?",
